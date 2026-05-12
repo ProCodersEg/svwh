@@ -1,0 +1,79 @@
+{
+  "developer": {
+    "name": "Altan Droid",
+    "title": "Senior Android Developer",
+    "email": "altan@android.dev",
+    "avatar": "https://i.pravatar.cc/150?img=68",
+    "bio": "Passionate Android developer crafting beautiful, performant apps with modern tech stack.",
+    "location": "San Francisco, CA",
+    "skills": ["Kotlin", "Java", "Compose", "Coroutines", "Flow", "Hilt", "Room", "Firebase"],
+    "social": [
+      { "platform": "github", "url": "https://github.com", "icon": "fa-github" },
+      { "platform": "linkedin", "url": "https://linkedin.com", "icon": "fa-linkedin" },
+      { "platform": "twitter", "url": "https://twitter.com", "icon": "fa-twitter" },
+      { "platform": "playstore", "url": "https://play.google.com", "icon": "fa-google-play" }
+    ]
+  },
+  "projects": [
+	{
+      "id": 1,
+      "icon": "https://play-lh.googleusercontent.com/3I8sTfjzaOovrH3qIYoyjzgDUSPwDO33R3KsHHYoYoutiAxwiKQHjtlf3wBnWIMgxlljwoWwmIHbmNASUiGG=w240-h480-rw",
+      "name": "عصر الهامور - حرب سفن و صيد",
+      "rating": 4.7,
+      "installs": "500+",
+      "desc": "Escape boredom and enter the world of Age of the Hammer — epic fishing and adventure games that offer sea, combat, and challenge in a masterpiece of the open world game Aram!",
+	  "tags": ["war", "fishing", "game", "android"],
+	  "year": 2025,
+      "pinned": true,
+      "trending": true,
+      "actionText": "View on Google Play",
+      "actionColor": "#FF6B35",
+      "color": "#FF6B35"
+    },
+	
+    {
+      "id": 2,
+      "icon": "https://img.icons8.com/color/96/wallet.png",
+      "name": "Spendwise",
+      "rating": 4.5,
+      "installs": "12K+",
+      "desc": "Smart expense tracker with insightful charts and Material You design.",
+      "tags": ["Kotlin", "Jetpack", "Room"],
+      "year": 2024,
+      "pinned": false,
+      "trending": true,
+      "actionText": "Show Details",
+      "actionColor": "#4ECDC4",
+      "color": "#4ECDC4"
+    },
+    {
+      "id": 3,
+      "icon": "https://img.icons8.com/color/96/headphones.png",
+      "name": "Noise",
+      "rating": 4.8,
+      "installs": "8K+",
+      "desc": "Focus & ambient sounds for deep work with background playback.",
+      "tags": ["Kotlin", "Compose", "Media3"],
+      "year": 2025,
+      "pinned": false,
+      "trending": false,
+      "actionText": "Visit App",
+      "actionColor": "#45B7D1",
+      "color": "#45B7D1"
+    },
+    {
+      "id": 4,
+      "icon": "https://img.icons8.com/color/96/dumbbell.png",
+      "name": "RepCount",
+      "rating": 4.6,
+      "installs": "3.2K+",
+      "desc": "Workout companion with rest timer and DataStore persistence.",
+      "tags": ["Kotlin", "Hilt", "Compose"],
+      "year": 2024,
+      "pinned": false,
+      "trending": false,
+      "actionText": "Open App",
+      "color": "#96CEB4"
+    }
+  ]
+}
