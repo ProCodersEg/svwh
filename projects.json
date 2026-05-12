@@ -9,7 +9,6 @@
     "skills": ["Kotlin", "Java", "Compose", "Coroutines", "Flow", "Hilt", "Room", "Firebase"],
     "social": [
       { "platform": "github", "url": "https://github.com", "icon": "fa-github" },
-      { "platform": "linkedin", "url": "https://linkedin.com", "icon": "fa-linkedin" },
       { "platform": "twitter", "url": "https://twitter.com", "icon": "fa-twitter" },
       { "platform": "playstore", "url": "https://play.google.com", "icon": "fa-google-play" }
     ]
@@ -25,7 +24,7 @@
 	  "tags": ["war", "fishing", "game", "android"],
 	  "year": 2025,
       "pinned": true,
-      "trending": true,
+      "trending": false,
       "actionText": "View on Google Play",
       "actionColor": "#FF6B35",
       "color": "#FF6B35"
