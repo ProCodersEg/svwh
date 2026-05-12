@@ -1,12 +1,12 @@
 {
   "developer": {
-    "name": "Altan Droid",
+    "name": "Zar3a Games",
     "title": "Senior Android Developer",
-    "email": "altan@android.dev",
-    "avatar": "https://i.pravatar.cc/150?img=68",
+    "email": "Codecafe.eg@gmail.com",
+    "avatar": "https://play-lh.googleusercontent.com/WDYbM5dU0zpdBScIOl8DEP3pdGKhKE1RxG8ix7n0hbaKhPij-YpPV2UBFMKv0Cg5WMS3=s94-rw",
     "bio": "Passionate Android developer crafting beautiful, performant apps with modern tech stack.",
-    "location": "San Francisco, CA",
-    "skills": ["Kotlin", "Java", "Compose", "Coroutines", "Flow", "Hilt", "Room", "Firebase"],
+    "location": "Cairo, EG",
+    "skills": ["Kotlin", "Java", "xml" , "Room", "Firebase"],
     "social": [
       { "platform": "github", "url": "https://github.com", "icon": "fa-github" },
       { "platform": "twitter", "url": "https://twitter.com", "icon": "fa-twitter" },
