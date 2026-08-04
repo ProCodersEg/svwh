@@ -1,16 +1,15 @@
 {
   "developer": {
     "name": "Zar3a Games",
-    "title": "Senior Android Developer",
+    "title": "مجتمع الابداع العربي",
     "email": "Codecafe.eg@gmail.com",
     "avatar": "https://play-lh.googleusercontent.com/WDYbM5dU0zpdBScIOl8DEP3pdGKhKE1RxG8ix7n0hbaKhPij-YpPV2UBFMKv0Cg5WMS3=s94-rw",
-    "bio": "Passionate Android developer crafting beautiful, performant apps with modern tech stack.",
+    "bio": "نصنع تطبيقات وألعاب عربية ممتعة تعكس روح الإبداع في مجتمعنا العربي",
     "location": "Cairo, EG",
-    "skills": ["Kotlin", "Java", "xml" , "Room", "Firebase"],
+    "skills": ["Kotlin", "Java", "xml" , "Room", "Firebase", "php", "node js"],
     "social": [
-      { "platform": "github", "url": "https://github.com", "icon": "fa-github" },
-      { "platform": "twitter", "url": "https://twitter.com", "icon": "fa-twitter" },
-      { "platform": "playstore", "url": "https://play.google.com", "icon": "fa-google-play" }
+      { "platform": "telegram", "url": "https://t.me/Circl_e", "icon": "fa-telegram" },
+      { "platform": "playstore", "url": "https://play.google.com/store/apps/dev?id=6681521285283655488", "icon": "fa-google-play" }
     ]
   },
   "projects": [
@@ -20,59 +19,36 @@
       "name": "عصر الهامور - حرب سفن و صيد",
       "rating": 4.7,
       "installs": "500+",
-      "desc": "Escape boredom and enter the world of Age of the Hammer — epic fishing and adventure games that offer sea, combat, and challenge in a masterpiece of the open world game Aram!",
-	  "tags": ["war", "fishing", "game", "android"],
+      "desc": "تنوَّع عن الملل وادخُل عالم عصر الهامور، حيث الألعاب الملاحية والمغامرات الملحمية التي تجمع بين البحر، القتال، والتحدّيات في تحفة لعبة عالم مفتوح مليئة بالأسرار!!
+انطلق في مغامرة الصيد الأولى لك على جزيرة الهامور، لكن احذر!
+العدو يتربّص، الوحوش تهاجم، واللصوص يحاولون سرقة سمكك الثمين!",
+	  "tags": ["حرب", "صيد", "لعبة", "اندرويد"],
 	  "year": 2025,
-      "pinned": false,
-      "trending": false,
-      "actionText": "View on Google Play",
+      "pinned": true,
+      "trending": true,
+      "actionText": "حملها من جوجل بلاي",
       "actionColor": "#FF6B35",
-      "color": "#FF6B35"
+      "color": "#FF6B35",
+	  "link": "https://play.google.com/store/apps/details?id=com.hamor_era_fishing_war_game"
     },
 	
     {
       "id": 2,
-      "icon": "https://img.icons8.com/color/96/wallet.png",
-      "name": "Spendwise",
-      "rating": 4.5,
-      "installs": "12K+",
-      "desc": "Smart expense tracker with insightful charts and Material You design.",
-      "tags": ["Kotlin", "Jetpack", "Room"],
-      "year": 2024,
+      "icon": "https://play-lh.googleusercontent.com/0BMAEKLGhzG56P5zwyevvoEQz5s5oa4n8aJFXaT9fPyxDUSlw9lhFmAFich6CdXVVk4Ef5yKpVc_s6XG5u_EZHA=w240-h480-rw",
+      "name": "Notifications History - Notix",
+      "rating": 4.6,
+      "installs": "500+",
+      "desc": "Notix – Notification Backup & History is your private notification vault.
+It automatically saves every notification you receive, so you never lose an important alert again.
+Your data is fully encrypted on your device and never sent to any server. No unnecessary permissions, no trackers, and no complicated setup — just grant Notification Access and Notix handles the rest",
+      "tags": ["استعادة اشعارات", "حفظ اشعارات", "ادوات"],
+      "year": 2026,
       "pinned": false,
       "trending": true,
-      "actionText": "Show Details",
+      "actionText": "عاين فى جوجل بلاي",
       "actionColor": "#4ECDC4",
-      "color": "#4ECDC4"
-    },
-    {
-      "id": 3,
-      "icon": "https://img.icons8.com/color/96/headphones.png",
-      "name": "Noise",
-      "rating": 4.8,
-      "installs": "8K+",
-      "desc": "Focus & ambient sounds for deep work with background playback.",
-      "tags": ["Kotlin", "Compose", "Media3"],
-      "year": 2025,
-      "pinned": false,
-      "trending": false,
-      "actionText": "Visit App",
-      "actionColor": "#45B7D1",
-      "color": "#45B7D1"
-    },
-    {
-      "id": 4,
-      "icon": "https://img.icons8.com/color/96/dumbbell.png",
-      "name": "RepCount",
-      "rating": 4.6,
-      "installs": "3.2K+",
-      "desc": "Workout companion with rest timer and DataStore persistence.",
-      "tags": ["Kotlin", "Hilt", "Compose"],
-      "year": 2024,
-      "pinned": false,
-      "trending": false,
-      "actionText": "Open App",
-      "color": "#96CEB4"
+      "color": "#4ECDC4",
+	  "link": "https://play.google.com/store/apps/details?id=com.codecafe.notifykeeper"
     }
   ]
 }
