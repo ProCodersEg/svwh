@@ -6,41 +6,36 @@
     "avatar": "https://play-lh.googleusercontent.com/WDYbM5dU0zpdBScIOl8DEP3pdGKhKE1RxG8ix7n0hbaKhPij-YpPV2UBFMKv0Cg5WMS3=s94-rw",
     "bio": "نصنع تطبيقات وألعاب عربية ممتعة تعكس روح الإبداع في مجتمعنا العربي",
     "location": "Cairo, EG",
-    "skills": ["Kotlin", "Java", "xml" , "Room", "Firebase", "php", "node js"],
+    "skills": ["Kotlin", "Java", "xml", "Room", "Firebase", "php", "node js"],
     "social": [
       { "platform": "telegram", "url": "https://t.me/Circl_e", "icon": "fa-telegram" },
       { "platform": "playstore", "url": "https://play.google.com/store/apps/dev?id=6681521285283655488", "icon": "fa-google-play" }
     ]
   },
   "projects": [
-	{
+    {
       "id": 1,
       "icon": "https://play-lh.googleusercontent.com/3I8sTfjzaOovrH3qIYoyjzgDUSPwDO33R3KsHHYoYoutiAxwiKQHjtlf3wBnWIMgxlljwoWwmIHbmNASUiGG=w240-h480-rw",
       "name": "عصر الهامور - حرب سفن و صيد",
       "rating": 4.7,
       "installs": "500+",
-      "desc": "تنوَّع عن الملل وادخُل عالم عصر الهامور، حيث الألعاب الملاحية والمغامرات الملحمية التي تجمع بين البحر، القتال، والتحدّيات في تحفة لعبة عالم مفتوح مليئة بالأسرار!!
-انطلق في مغامرة الصيد الأولى لك على جزيرة الهامور، لكن احذر!
-العدو يتربّص، الوحوش تهاجم، واللصوص يحاولون سرقة سمكك الثمين!",
-	  "tags": ["حرب", "صيد", "لعبة", "اندرويد"],
-	  "year": 2025,
+      "desc": "تنوَّع عن الملل وادخُل عالم عصر الهامور، حيث الألعاب الملاحية والمغامرات الملحمية التي تجمع بين البحر، القتال، والتحدّيات في تحفة لعبة عالم مفتوح مليئة بالأسرار!!\nانطلق في مغامرة الصيد الأولى لك على جزيرة الهامور، لكن احذر!\nالعدو يتربّص، الوحوش تهاجم، واللصوص يحاولون سرقة سمكك الثمين!",
+      "tags": ["حرب", "صيد", "لعبة", "اندرويد"],
+      "year": 2025,
       "pinned": true,
       "trending": true,
       "actionText": "حملها من جوجل بلاي",
       "actionColor": "#FF6B35",
       "color": "#FF6B35",
-	  "link": "https://play.google.com/store/apps/details?id=com.hamor_era_fishing_war_game"
+      "link": "https://play.google.com/store/apps/details?id=com.hamor_era_fishing_war_game"
     },
-	
     {
       "id": 2,
       "icon": "https://play-lh.googleusercontent.com/0BMAEKLGhzG56P5zwyevvoEQz5s5oa4n8aJFXaT9fPyxDUSlw9lhFmAFich6CdXVVk4Ef5yKpVc_s6XG5u_EZHA=w240-h480-rw",
       "name": "Notifications History - Notix",
       "rating": 4.6,
       "installs": "500+",
-      "desc": "Notix – Notification Backup & History is your private notification vault.
-It automatically saves every notification you receive, so you never lose an important alert again.
-Your data is fully encrypted on your device and never sent to any server. No unnecessary permissions, no trackers, and no complicated setup — just grant Notification Access and Notix handles the rest",
+      "desc": "Notix – Notification Backup & History is your private notification vault.\nIt automatically saves every notification you receive, so you never lose an important alert again.\nYour data is fully encrypted on your device and never sent to any server. No unnecessary permissions, no trackers, and no complicated setup — just grant Notification Access and Notix handles the rest",
       "tags": ["استعادة اشعارات", "حفظ اشعارات", "ادوات"],
       "year": 2026,
       "pinned": false,
@@ -48,7 +43,7 @@ Your data is fully encrypted on your device and never sent to any server. No unn
       "actionText": "عاين فى جوجل بلاي",
       "actionColor": "#4ECDC4",
       "color": "#4ECDC4",
-	  "link": "https://play.google.com/store/apps/details?id=com.codecafe.notifykeeper"
+      "link": "https://play.google.com/store/apps/details?id=com.codecafe.notifykeeper"
     }
   ]
 }
