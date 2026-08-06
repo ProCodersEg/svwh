@@ -8,9 +8,27 @@
     "location": "Cairo, EG",
     "skills": ["Kotlin", "Java", "xml", "Room", "Firebase", "php", "node js"],
     "social": [
-      { "platform": "telegram", "url": "https://t.me/Circl_e", "icon": "fa-telegram" },
-      { "platform": "playstore", "url": "https://play.google.com/store/apps/dev?id=6681521285283655488", "icon": "fa-google-play" }
-    ]
+            {
+                "platform": "telegram",
+                "url": "https://t.me/Circl_e",
+                "icon": "fa-telegram"
+            },
+            {
+                "platform": "playstore",
+                "url": "https://play.google.com/store/apps/dev?id=6681521285283655488",
+                "icon": "fa-google-play"
+            },
+            {
+                "platform": "fiverr",
+                "url": "https://www.fiverr.com/users/pro_co/",
+                "icon": "fas fa-handshake"
+            },
+            {
+                "platform": "khamsat",
+                "url": "https://khamsat.com/user/%D9%85%D8%B7%D9%88%D8%B1-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF",
+                "icon": "fas fa-5"
+            }
+        ]
   },
   "projects": [
     {
