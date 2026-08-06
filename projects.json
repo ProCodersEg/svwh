@@ -30,11 +30,6 @@
                 "platform": "Dribbble",
                 "url": "https://dribbble.com/M_yM",
                 "icon": "fa-square-dribbble"
-            },
-            {
-                "platform": "fiverr",
-                "url": "https://www.fiverr.com/users/pro_co/",
-                "icon": "fas fa-handshake"
             }
         ]
     },
@@ -42,7 +37,7 @@
     {
       "id": 1,
       "icon": "https://play-lh.googleusercontent.com/3I8sTfjzaOovrH3qIYoyjzgDUSPwDO33R3KsHHYoYoutiAxwiKQHjtlf3wBnWIMgxlljwoWwmIHbmNASUiGG=w240-h480-rw",
-      "name": "عصر الهامور - حرب سفن و صيد",
+      "name": "عصر الهامور - حرب و صيد",
       "rating": 4.7,
       "installs": "500+",
       "desc": "ابتعد عن الملل وانطلق إلى عصر الهامور! 🌊 عالم مفتوح مليء بالمغامرات، الصيد، القتال، والأسرار. ابدأ رحلتك في جزيرة الهامور، لكن احذر... الوحوش واللصوص يتربصون بك!",
