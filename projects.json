@@ -1,13 +1,21 @@
 {
   "developer": {
-    "name": "Zar3a Games",
-    "title": "مجتمع الابداع العربي",
-    "email": "Codecafe.eg@gmail.com",
-    "avatar": "https://play-lh.googleusercontent.com/WDYbM5dU0zpdBScIOl8DEP3pdGKhKE1RxG8ix7n0hbaKhPij-YpPV2UBFMKv0Cg5WMS3=s94-rw",
-    "bio": "نصنع تطبيقات وألعاب عربية ممتعة تعكس روح الإبداع في مجتمعنا العربي",
-    "location": "Cairo, EG",
-    "skills": ["Kotlin", "Java", "xml", "Room", "Firebase", "php", "node js"],
-    "social": [
+        "name": "Zar3a Games",
+        "title": "مجتمع الابداع العربي",
+        "email": "Codecafe.eg@gmail.com",
+        "avatar": "https://play-lh.googleusercontent.com/WDYbM5dU0zpdBScIOl8DEP3pdGKhKE1RxG8ix7n0hbaKhPij-YpPV2UBFMKv0Cg5WMS3=s94-rw",
+        "bio": "نصنع تطبيقات وألعاب عربية ممتعة تعكس روح الإبداع في مجتمعنا العربي",
+        "location": "Cairo, EG",
+        "skills": [
+            "Kotlin",
+            "Java",
+            "xml",
+            "Room",
+            "Firebase",
+            "php",
+            "node js"
+        ],
+        "social": [
             {
                 "platform": "telegram",
                 "url": "https://t.me/Circl_e",
@@ -29,7 +37,7 @@
                 "icon": "fas fa-5"
             }
         ]
-  },
+    },
   "projects": [
     {
       "id": 1,
